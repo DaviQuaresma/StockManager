@@ -63,6 +63,7 @@ Pré-requisitos
 Certifique-se de ter o Node.js e o npm instalados em sua máquina. Esses são necessários para rodar o ambiente React.
 
 Passos para execução
+
 -- Clone o repositório:
 git clone https://github.com/seu-usuario/projeto-gerenciador-estoque.git
 cd projeto-gerenciador-estoque
